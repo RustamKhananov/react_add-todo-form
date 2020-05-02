@@ -1,0 +1,2 @@
+.App{text-align:left}.new-user-form{border:1px solid #000;padding:10px;width:-webkit-max-content;width:-moz-max-content;width:max-content;display:flex;flex-direction:column;position:relative}.new-user-form>input,.new-user-form>textarea{margin-top:10px;width:200px}.new-user-form>textarea{margin-bottom:20px;height:100px}.userNameError{top:60px}.titleError,.userNameError{color:red;font-weight:700;font-style:italic;position:absolute}.titleError{top:215px}
+/*# sourceMappingURL=main.f50bac64.chunk.css.map */
